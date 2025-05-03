@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on HomeH<br>👯 I’m looking to collaborate on Github<br>🤝 I’m looking for help with Woman<br>🌱 I’m currently learning Artificial Intelligence<br>💬 Ask me about School<br>⚡ Fun fact i like fritzy
 
 
 # 💻 Tech Stack:
